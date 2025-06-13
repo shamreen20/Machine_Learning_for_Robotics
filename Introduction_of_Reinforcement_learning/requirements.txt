@@ -1,0 +1,6 @@
+numpy
+pygame
+gymnysium
+matplotlib
+medipy
+scipy
