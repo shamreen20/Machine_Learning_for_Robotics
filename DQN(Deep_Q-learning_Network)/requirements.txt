@@ -1,0 +1,10 @@
+gymnasium[box2d]
+ray[rllib]
+ray[tune]
+mediapy
+torch
+numpy
+ray
+scipy
+matplotlib
+collections
