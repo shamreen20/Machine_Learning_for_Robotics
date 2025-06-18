@@ -1,0 +1,9 @@
+swig
+mediapy
+mujoco
+torch
+torchrl
+gymnasium[box2d,mujoco]==0.28.1
+ipywidgets
+numpy
+matplotlib
