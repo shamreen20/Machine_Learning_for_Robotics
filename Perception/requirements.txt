@@ -1,0 +1,9 @@
+swig
+mediapy
+mujoco
+torch
+torchrl
+gynasium
+numpy
+matplotlib
+torchvision
