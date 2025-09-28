@@ -1,0 +1,10 @@
+numpy==1.26.4
+mujoco==2.3.2 
+ray==2.7 
+mediapy 
+gymnasium[mujoco]
+ray[rllib] 
+ray[tune]
+matplotlib
+torch
+torchvision

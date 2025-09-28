@@ -41,6 +41,19 @@ This repository is organized into folders, each corresponding to a key topic cov
 8. **Perception:** Covers perception techniques, including computer vision and sensor processing, critical for robots to interpret their environments.
 - Link to Folder/script: [Perception](./Perception).
 
+8. **Policy Gradients:** Policy gradients are a fundamental class of reinforcement learning algorithms that directly optimize an agent's policy parameters by estimating the gradient of expected cumulative rewards, enabling effective learning in complex, high-dimensional action spaces.
+- Link to Folder/script: [Policy Gradient](./Policy_gradients).
+
+8. **Bayesian Optimization:** Bayesian optimization is an efficient method for optimizing expensive black-box functions by constructing a probabilistic surrogate model, often a Gaussian process, to approximate the objective.
+It iteratively selects promising points using acquisition functions that balance exploration of uncertain areas and exploitation of known high-performing regions.
+- Link to Folder/script: [Bayesian Optimization](./Bayesian_Optimization).
+
+8. **RL from Images:** Reinforcement learning from images is a subfield of machine learning that focuses on training agents to make decisions based on visual input. In this approach, the agent directly learns a policy or value function from raw image data, without the need for handcrafted features or explicit state representations. This allows the agent to perceive and understand the environment solely through visual observations.
+- Link to Folder/script: [RL from Images](./RL_from_Images).
+
+8. **Imitation Learning:** Imitation learning is a machine learning approach where an agent learns to perform a task by imitating the behavior of an expert. In imitation learning, the agent learns from a dataset of expert demonstrations, where each demonstration consists of a sequence of states and the corresponding actions taken by the expert. The goal of imitation learning is to learn a policy that can mimic the expert's behavior and perform the task accurately.
+- Link to Folder/script: [Imitation Learning](./Imitation_Learning).
+
 ## Contact
 For questions or suggestions, please open an issue on the GitHub repository or contact [shamreen.tabassum@mailbox.tu-dresden.de].
 

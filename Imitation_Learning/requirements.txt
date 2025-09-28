@@ -1,0 +1,8 @@
+swig 
+mediapy
+mujoco==3.1.4
+minari==0.5.3
+gymnasium_robotics==1.2.4
+torch
+torchrl==0.7.0
+gymnasium==0.28.1
